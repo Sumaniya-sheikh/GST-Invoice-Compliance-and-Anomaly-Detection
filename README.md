@@ -20,6 +20,7 @@ The main objectives of the system are Efficiency, Accuracy and Consistency, Expl
 
 
 #4. Users
+
 4.1 Business User
 A Business User is an accounting personnel or authorized employee responsible for submitting and reviewing business invoices.
 
@@ -29,6 +30,7 @@ Capabilities:
 -	View GST compliance results.
 -	View identified invoice anomalies and risk results.
 -	Download invoice verification reports.
+
 4.2 Admin
 An Admin is an authorized user responsible for managing Business Users and overseeing invoice verification activities across the system.
 
