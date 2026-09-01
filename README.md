@@ -64,3 +64,7 @@ The following functionalities are excluded from the current version of the syste
 -	Multi-company or multi-tenant support.
 -	Configuration or modification of GST validation rules through a user-facing interface.
 -	Automated submission of invoices or GST returns to government systems.
+
+
+ #7. Functional Requirement
+ #8. Non Functional Requirement
